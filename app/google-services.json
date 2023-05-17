@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325251107079",
+    "project_id": "craftzoneapp-c1745",
+    "storage_bucket": "craftzoneapp-c1745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325251107079:android:7c24adc540c407cbe9dda2",
+        "android_client_info": {
+          "package_name": "madhuri.com.craftzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325251107079-e47stf9s8in664054athmdcj59tasbfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQgKqYoGunWe0QcFY14Y4tWMl63tWgugY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325251107079-e47stf9s8in664054athmdcj59tasbfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sofa"
+        android:title="@string/sofa"/>
+
+    <item
+        android:id="@+id/mattress"
+        android:title="@string/mattress" />
+
+    <item
+        android:id="@+id/pillow"
+        android:title="@string/pillow"/>
+
+    <item android:id="@+id/FurnitureBed"
+       android:title="@string/modernbed" />
+
+    <item android:id="@+id/modernkitchen"
+        android:title="@string/kitchen"/>
+
+    <item android:id="@+id/slider"
+        android:title="@string/slider"/>
+
+    <item
+        android:id="@+id/contactUs"
+        android:title="@string/contact_us" />
+
+</menu>

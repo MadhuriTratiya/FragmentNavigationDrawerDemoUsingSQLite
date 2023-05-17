@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Craftzone</string>
+    <string name="login">login</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+    <string name="mattress">Mattress</string>
+    <string name="sofa">Sofa</string>
+    <string name="pillow">Pillow</string>
+    <string name="kitchen">ModernKitchen</string>
+    <string name="slider">Slider</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="modernbed">Bed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_yet_registered_sign_up">not_yet_registered_sign_up</string>
+    <string name="already_an_user_login">Already an User? Login</string>
+</resources>
